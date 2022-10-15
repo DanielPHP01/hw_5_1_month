@@ -13,7 +13,7 @@ public class Main {
 
 
     }
-// не смог вернуть результат метода
+// РЅРµ СЃРјРѕРі РІРµСЂРЅСѓС‚СЊ СЂРµР·СѓР»СЊС‚Р°С‚ РјРµС‚РѕРґР°
 
     public static Hero createHeroes(Hero[] heroes) {
 
