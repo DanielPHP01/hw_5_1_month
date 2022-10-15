@@ -21,12 +21,10 @@ public class Hero {
     }
 
     public int getDamage() {
-
         return damage;
     }
 
     public String getSuperSkill() {
-
         return superSkill;
     }
 

@@ -3,12 +3,7 @@ public class Boss {
     private int damage;
     private String defence;
 
-    public Boss(int health, int damage, String defence) {
-        this.health = health;
-        this.damage = damage;
-        this.defence = defence;
 
-    }
 
     public int getHealth() {
         return health;
